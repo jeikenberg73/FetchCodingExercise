@@ -1,0 +1,9 @@
+<resources>
+    <string name="top_bar">Fetch Hire App</string>
+    <string name="app_name">FetchCodingExercise</string>
+    <string name="error_message">There was an issue loading the hire list.</string>
+    <string name="id">Id:</string>
+    <string name="list_id">List Id:</string>
+    <string name="name">Name:</string>
+    <string name="try_again_btn">Try Again</string>
+</resources>
